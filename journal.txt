@@ -1,6 +1,6 @@
 Title:My paper
 Author:Przemek
-Introduction:
-Conclusion:
+Introduction:chocolate is good
+Conclusion:I like chocolate
 References:
 
