@@ -1,5 +1,5 @@
-Title:
-Author:
+Title:My paper
+Author:Przemek
 Introduction:
 Conclusion:
 References:
